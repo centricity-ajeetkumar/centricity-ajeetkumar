@@ -8,7 +8,7 @@ I’m a results-driven Frontend Developer currently working at **Centricity Weal
 
 ## 💼 About Me
 
-- 💻 Frontend Developer with **4.5+ years of experience**
+- 💻 Frontend Developer with **4Y 5M+ years of experience**
 - 🏢 Working at **Centricity WealthTech Private Limited**
 - 📍 Based in **Gurugram, Haryana, India**
 - ⚡ Focused on performance optimization and clean UI architecture
