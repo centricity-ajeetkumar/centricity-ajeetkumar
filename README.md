@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajeet Kumar
 
-🚀 **Frontend Developer | 4.5+ Years Experience | Angular • React • Next.js**
+🚀 **Frontend Developer | 4Y 10M+ Years Experience | Angular • React • Next.js**
 
 I’m a results-driven Frontend Developer currently working at **Centricity WealthTech Private Limited** in **Gurugram, Haryana, India**. I specialize in building high-performance, scalable, and user-friendly web applications.
 
